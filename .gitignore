@@ -1,6 +1,6 @@
 .evn
 .cache
-Log.txt
+Logs.txt
 .DS_Store
 *.session
 raw_files/
