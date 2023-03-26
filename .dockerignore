@@ -1,0 +1,10 @@
+.evn
+.cache
+logs.txt
+.DS_Store 
+*.session
+raw_files/
+cache/
+downloads/
+_ _pycache_ _ 
+*.session-journal
