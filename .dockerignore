@@ -6,5 +6,5 @@ logs.txt
 raw_files/
 cache/
 downloads/
-_ _pycache_ _ 
+_ _pycache_ _/
 *.session-journal
